@@ -1,4 +1,4 @@
-# Dream-Of-Waking
+# Dream-Of-Waking (Sueño del despertar)
 Dream of Waking es un survival- horror de 16 bits 2D, ambientado en un bosque nevado.
 
 Las mecanicas de juego estan basadas en los primeros Resident Evil, Silent Hill, en donde el jugador debe apuntar en una posicion fija antes de poder disparar.
